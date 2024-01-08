@@ -1,6 +1,6 @@
 // We use the Get command to find an element or elements
 // we can find an element by tag name
-
+///< reference types = "cypress"/>
 it('find element by tag name', () => {
   cy.visit('cypress/index.html');
   // we put the tag name inside the get command
