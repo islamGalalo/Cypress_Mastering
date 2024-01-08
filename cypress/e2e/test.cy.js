@@ -1,5 +1,4 @@
- 
- 
+
 it ('first test case ' , () =>   {
-    cy.log('isalm is the best  ')
+    cy.log('islam is the best  ')
  })
